@@ -1,0 +1,19 @@
+# Build output
+build/
+.gradle/
+.kotlin/
+*.apk
+*.aab
+
+# Local machine settings (SDK path etc.)
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# Local copy of the Gradle distribution (downloaded by the wrapper instead)
+_gradleDist/
+
+# Empty leftover folder
+scanner app/

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.TamScanner" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/brand_500</item>
+        <item name="colorPrimaryContainer">@color/brand_700</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@color/white</item>
+    </style>
+
+    <style name="Theme.TamScanner.Camera" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/brand_500</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@color/black</item>
+        <item name="android:navigationBarColor" tools:targetApi="l">@color/black</item>
+    </style>
+
+</resources>
+
